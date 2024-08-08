@@ -1,0 +1,1 @@
+enum ProviderState { idle, loading, loaded, empty, error }
